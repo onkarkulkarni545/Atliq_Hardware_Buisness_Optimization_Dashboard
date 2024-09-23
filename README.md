@@ -3,7 +3,7 @@
 ## Project Perspectives
 ### 1. Finance View
 #### Objectives:
--Improve financial planning and budgeting processes.
+- Improve financial planning and budgeting processes.
 Enhance cost control and expense management.
 Key Achievements:
 Developed a robust financial forecasting model for accurate budget predictions.
