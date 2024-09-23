@@ -3,34 +3,34 @@
 ## Project Perspectives
 ### 1. Finance View
 #### Objectives:
-Improve financial planning and budgeting processes.
+-Improve financial planning and budgeting processes.
 Enhance cost control and expense management.
 Key Achievements:
 Developed a robust financial forecasting model for accurate budget predictions.
 Benchmarked budgeting against previous year targets and goals.
 ### 2. Sales View
-Objectives:
+#### Objectives:
 Increase sales revenue and market share.
 Improve customer relationship management.
 Key Achievements:
 Created comprehensive customer and product sales performance reports.
 Identified sales trends and tracked key performance indicators (KPIs).
 ### 3. Supply Chain View
-Objectives:
+#### Objectives:
 Optimize inventory management and reduce lead times.
 Strengthen supplier relationships for cost savings.
 Key Achievements:
 Identified trends in forecast accuracy, net error %, and absolute error %.
 Monitored key metrics by customer and product demand for supply management.
 ### 4. Executive View
-Objectives:
+#### Objectives:
 Provide a comprehensive view of organizational performance.
 Enable data-driven decision-making at the top management level.
 Key Achievements:
 Developed a real-time executive dashboard for performance monitoring.
 Displayed revenue breakdowns by division, customer, product, channel, and manufacturer.
 ### 5. Marketing View
-Objectives:
+#### Objectives:
 Enhance brand visibility and customer engagement.
 Implement data-driven marketing strategies.
 Key Achievements:
