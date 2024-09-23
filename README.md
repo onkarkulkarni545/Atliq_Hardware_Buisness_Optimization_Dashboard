@@ -2,7 +2,7 @@
   This project focuses on streamlining and optimizing key aspects of AtliQ Hardware's business operations, including Finance, Sales, Supply Chain, Executive Management, and Marketing. The dashboard provides actionable insights through real-time data and reports, aiding in data-driven decision-making
 ## Project Perspectives
 ### 1. Finance View
-Objectives:
+#### Objectives:
 Improve financial planning and budgeting processes.
 Enhance cost control and expense management.
 Key Achievements:
