@@ -1,5 +1,7 @@
 # Atliq_Hardware_Buisness_Optimization_Dashboard
   This project focuses on streamlining and optimizing key aspects of AtliQ Hardware's business operations, including Finance, Sales, Supply Chain, Executive Management, and Marketing. The dashboard provides actionable insights through real-time data and reports, aiding in data-driven decision-making
+## Live Dashboard Link
+- https://app.powerbi.com/groups/me/reports/5b399d91-c992-427a-98ed-2ee336871601/ReportSection2f4ece5e1ab3e33b0a9b?experience=power-bi
 ## Project Perspectives
 ### 1. Finance View
 #### Objectives:
